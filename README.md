@@ -2,16 +2,11 @@
 
 ![amazona](/frontend/public/images/amazona.jpg)
 
-# React Tutorial - Build ECommerce in 6 Hours [2022]
-
 Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
-
-Watch it on Youtube:
-[https://www.youtube.com/watch?v=CDtPMR5y0QU](https://www.youtube.com/watch?v=CDtPMR5y0QU)
 
 ## Demo Website
 
-- 👉 Heroku : [https://mern-amazona-app.herokuapp.com](https://mern-amazona-app.herokuapp.com)
+- 👉 Heroku : [https://somesh-amazona.herokuapp.com/](https://somesh-amazona.herokuapp.com/)
 
 ## You Will Learn
 
@@ -74,7 +69,7 @@ $ npm start
 
 ## Support
 
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
+- Contact Instructor: somnathganeshrao09@gmail.com
 
 # Lessons
 
